@@ -20,9 +20,10 @@ body
 
 #Cabecera #tagline
 {
-    margin: 1em 0 0 0;
+    margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    text-align: center;
 }
 #container
 {
